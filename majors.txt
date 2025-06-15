@@ -1,0 +1,2 @@
+Computer Science;101:Intro to Programming,102:Data Structures
+Mathematics;201:Calculus,202:Algebra
